@@ -10,8 +10,7 @@
 
 -Responsive yapida
 
--SCSS ile daha düzenli yapida
 
 # GIF
 
-![](./images/jbl.mp4)
+![](./download.gif)
